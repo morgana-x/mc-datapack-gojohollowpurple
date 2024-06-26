@@ -11,3 +11,5 @@ Currently Adds:
 + Blue
 
 Whoever is assigned as gojo will also get multiple effects each respawn
+
+Gojo is still defeatable! (Probably, hope noone cuts him in half :( )
