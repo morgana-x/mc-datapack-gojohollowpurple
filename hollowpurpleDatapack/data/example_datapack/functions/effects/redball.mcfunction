@@ -1,0 +1,1 @@
+execute at @e[type=minecraft:area_effect_cloud,tag=redball,nbt={Age:-10}] run summon fireball ~ ~ ~ {ExplosionPower:10}
