@@ -19,6 +19,7 @@ Currently Adds:
 + Red
 + Big Red
 + Blue
++ Toggleable Infinity (slowing objects to a halt coming towards you, mobs, arrows etc) (Doesn't affect passive animals by design like dogs just incase)
 
 Whoever is assigned as gojo will also get multiple effects each respawn
 
