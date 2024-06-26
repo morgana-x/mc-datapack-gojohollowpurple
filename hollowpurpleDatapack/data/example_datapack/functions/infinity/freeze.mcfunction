@@ -5,6 +5,8 @@ execute at @a[scores={gojo=1, infinityEnabled=1}] run execute at @a run execute 
 execute at @a[scores={gojo=1, infinityEnabled=1}] run execute at @a run execute as @e[type=#minecraft:zombies,distance=0.01..2] run data modify entity @s NoAI set value 1b
 execute at @a[scores={gojo=1, infinityEnabled=1}] run execute at @a run effect give @e[type=#minecraft:zombies,distance=0.01..2] minecraft:slowness 1 100 true
 
+execute at @a[scores={gojo=1, infinityEnabled=1}] run execute at @a run effect give @a[distance=0.01..1.2] minecraft:slowness 1 100 true
+
 execute at @a[scores={gojo=1, infinityEnabled=1}] run execute at @a run effect give @e[type=#minecraft:undead,distance=0.01..1.5] minecraft:slowness 1 100 true
 execute at @a[scores={gojo=1, infinityEnabled=1}] run execute at @a run effect give @e[type=#minecraft:undead,distance=2..3] minecraft:slowness 1 2 true
 execute at @a[scores={gojo=1, infinityEnabled=1}] run execute at @a run effect give @e[type=#minecraft:undead,distance=3..4] minecraft:slowness 1 1 true
