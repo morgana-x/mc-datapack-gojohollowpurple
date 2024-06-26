@@ -7,7 +7,9 @@ Whoever you want to set to gojo just do scoreboard players set person gojo 1
 
 (Need to respawn to receive effects and items)
 
-Obviously can set to 0 as well to remove that, (Please note that the username __morgana will always be set to gojo each time the pack is loaded, edit the code if you don't want that!)
+Obviously can set to 0 as well to remove that
+
+(Need to respawn to remove effects and items)
 
 
 
