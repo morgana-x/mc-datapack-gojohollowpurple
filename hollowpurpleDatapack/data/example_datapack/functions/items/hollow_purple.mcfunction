@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{display:{Name:'[{"text":"V","color":"purple","bold":true,"obfuscated":true},{"text":"Explosion","color":"pink","bold":true,"obfuscated":false},{"text":"V","color":"purple","bold":true,"obfuscated":true}]',Lore:['{"text":"Hollow purple!","color":"pink","bold":true,"italic":true}']},HideFlags:4,Unbreakable:1b,CustomModelData:1,explosion:1b} 1
