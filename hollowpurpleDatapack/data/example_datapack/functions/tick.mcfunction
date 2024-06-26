@@ -59,7 +59,7 @@ execute as @a[scores={gojo=1, shoot=1..},nbt={SelectedItem:{id:"minecraft:carrot
 # Give Blue effects
 execute as @a[scores={gojo=1},nbt={SelectedItem:{id:"minecraft:diamond",tag:{explosion:35}}}] run effect give @s minecraft:speed 1 120 true
 execute as @a[scores={gojo=1},nbt={SelectedItem:{id:"minecraft:diamond",tag:{explosion:35}}}] run effect give @s minecraft:jump_boost 1 3 true
-execute as @a[scores={gojo=1},nbt={SelectedItem:{id:"minecraft:diamond",tag:{explosion:35}}}] run effect give @s minecraft:night_vision 50 255 true
+#execute as @a[scores={gojo=1},nbt={SelectedItem:{id:"minecraft:diamond",tag:{explosion:35}}}] run effect give @s minecraft:night_vision 50 255 true
 
 # Explosions
 execute if entity @e[type=minecraft:area_effect_cloud,tag=smallexplosion] run function example_datapack:effects/smallexplosion
